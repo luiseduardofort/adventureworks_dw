@@ -62,8 +62,8 @@ sources:
       - name: sales_countryregioncurrency
       - name: sales_creditcard
       - name: sales_currency
-      - name: sales_sales_salespersonquotahistory 
-      - name: sales_sales_salesterritory 
-      - name: sales_sales_specialoffer 
-      - name: sales_sales_store 
+      - name: sales_salespersonquotahistory 
+      - name: sales_salesterritory 
+      - name: sales_specialoffer 
+      - name: sales_store 
       - name: sales_salesorderheadersalesreason 
