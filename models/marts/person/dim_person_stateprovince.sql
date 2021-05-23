@@ -1,2 +1,2 @@
 select *
-from {{ref('')}}
+from {{ref('stg_person_stateprovince')}}
