@@ -60,3 +60,8 @@ models:
   - name: dim_sales_countryregioncurrency
   - name: dim_sales_creditcard
   - name: dim_sales_currency
+  - name: dim_sales_sales_salespersonquotahistory
+  - name: dim_sales_sales_salesterritory
+  - name: dim_sales_sales_specialoffer
+  - name: dim_sales_sales_store
+  - name: dim_sales_salesorderheadersalesreason
