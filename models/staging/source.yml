@@ -1,0 +1,65 @@
+version: 2
+
+sources:
+  - name: "ADVENTURE_WORKS"
+
+    tables:
+      - name: humanresources_department         
+      - name: humanresources_employee
+      - name: humanresources_employeedepartment
+      - name: humanresources_employeepayhistory
+      - name: humanresources_jobcandidate
+      - name: humanresources_shift
+      - name: humanresources_vemployee
+      - name: humanresources_vemployeedepartment 
+      - name: humanresources_vemployeedepartmenthistory
+      - name: humanresources_vjobcandidate
+      - name: humanresources_vjobcandidateeducation
+      - name: humanresources_vjobcandidateemployment
+      - name: person_address
+      - name: person_addresstype
+      - name: person_businessentity
+      - name: person_businessentityaddress
+      - name: person_businessentitycontact
+      - name: person_contacttype
+      - name: person_countryregion
+      - name: person_emailaddress
+      - name: person_password
+      - name: person_person
+      - name: person_personphone
+      - name: person_phonenumbertype
+      - name: person_stateprovince
+      - name: production_billofmaterials
+      - name: production_culture
+      - name: production_document
+      - name: production_illustration
+      - name: production_location
+      - name: production_product
+      - name: production_productcategory
+      - name: production_productcosthistory
+      - name: production_productdescription
+      - name: production_productdocument
+      - name: production_productinventory
+      - name: production_productlistpricehistory
+      - name: production_productmodel
+      - name: production_productmodelillustration
+      - name: production_productmodelproductdescriptionculture
+      - name: production_productphoto
+      - name: production_productproductphoto
+      - name: production_productreview
+      - name: production_productsubcategory
+      - name: production_scrapreason
+      - name: production_transactionhistory
+      - name: production_transactionhistoryarchive
+      - name: production_unitmeasure
+      - name: production_workorder
+      - name: production_workorderrouting
+      - name: purchasing_productvendor
+      - name: purchasing_purchaseorderdetail
+      - name: purchasing_purchaseorderheader
+      - name: purchasing_shipmethod
+      - name: purchasing_vendor
+      - name: sales_countryregioncurrency
+      - name: sales_creditcard
+      - name: sales_currency
+

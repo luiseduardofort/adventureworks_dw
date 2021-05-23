@@ -1,0 +1,19 @@
+adventure_works:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: ct08241
+
+      # User/password auth
+      user: dbt_user
+      password: dbt_user
+
+      role: dbtrole
+      database: stitch_database
+      warehouse: adventureworksdw
+      schema: dbt_luis
+      threads: 6
+      client_session_keep_alive: False
+      query_tag: anything
+
