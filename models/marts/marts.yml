@@ -60,8 +60,18 @@ models:
   - name: dim_sales_countryregioncurrency
   - name: dim_sales_creditcard
   - name: dim_sales_currency
-  - name: dim_sales_sales_salespersonquotahistory
-  - name: dim_sales_sales_salesterritory
-  - name: dim_sales_sales_specialoffer
+  - name: dim_sales_salespersonquotahistory
+  - name: dim_sales_salesterritory
+  - name: dim_sales_specialoffer
   - name: dim_sales_sales_store
-  - name: dim_sales_salesorderheadersalesreason
+  - name: dim_sales_salesorderheadersalesreason 
+  - name: dim_sales_customer
+  - name: dim_sales_personcreditcard
+  - name: dim_sales_salesorderdetail
+  - name: dim_sales_salesorderheader
+  - name: dim_sales_salesperson
+  - name: dim_sales_salesreason
+  - name: dim_sales_salestaxrate
+  - name: dim_sales_salesterritoryhistory
+  - name: dim_sales_shoppingcartitem
+  - name: dim_sales_specialofferproduct

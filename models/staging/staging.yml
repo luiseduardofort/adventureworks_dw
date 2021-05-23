@@ -67,3 +67,15 @@ sources:
       - name: sales_specialoffer 
       - name: sales_store 
       - name: sales_salesorderheadersalesreason 
+      - name: sales_customer
+      - name: sales_personcreditcard
+      - name: sales_salesorderdetail
+      - name: sales_salesorderheader
+      - name: sales_salesperson
+      - name: sales_salesreason
+      - name: sales_salestaxrate
+      - name: sale_salesterritory
+      - name: sales_salesterritoryhistory
+      - name: sales_shoppingcartitem
+      - name: sales_sales_specialoffer
+      - name: sales_specialofferproduct
