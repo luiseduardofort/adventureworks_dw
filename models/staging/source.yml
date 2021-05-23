@@ -6,7 +6,7 @@ sources:
     tables:
       - name: humanresources_department         
       - name: humanresources_employee
-      - name: humanresources_employeedepartment
+      - name: humanresources_employeedepartmenthistory
       - name: humanresources_employeepayhistory
       - name: humanresources_jobcandidate
       - name: humanresources_shift
@@ -62,4 +62,5 @@ sources:
       - name: sales_countryregioncurrency
       - name: sales_creditcard
       - name: sales_currency
+      - name: _sdc_rejected
 

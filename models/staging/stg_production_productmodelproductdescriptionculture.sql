@@ -1,2 +1,2 @@
 select *
-from {{source('ADVENTURE_WORKS','production_productmodelproductdescriptioncultures')}}
+from {{source('ADVENTURE_WORKS','production_productmodelproductdescriptionculture')}}
