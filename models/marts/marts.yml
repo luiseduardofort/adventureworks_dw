@@ -1,0 +1,62 @@
+version: 2
+
+models:
+  # human resources 
+  - name: dim_humanresources_department
+  - name: dim_humanresources_employeedepartmenthistory
+  - name: dim_humanresources_jobcandidate
+  - name: dim_humanresources_shift
+  - name: dim_humanresources_vemployee
+  - name: dim_humanresources_vemployeedepartmenthistory
+  - name: dim_humanresources_vjobcandidate
+  - name: dim_humanresources_vjobcandidateeducation
+  - name: dim_humanresources_vjobcandidateemployment
+  # person
+  - name: dim_person_stateprovince
+  - name: dim_person_addresstype
+  - name: dim_person_businessentity
+  - name: dim_person_businessentityaddress
+  - name: dim_person_businessentitycontact
+  - name: dim_person_contacttype
+  - name: dim_person_countryregion
+  - name: dim_person_emailaddress
+  - name: dim_person_password
+  - name: dim_person_person
+  - name: dim_person_personphone
+  - name: dim_person_phonenumbertype
+  # production
+  - name: dim_production_billofmaterials
+  - name: dim_production_culture
+  - name: dim_production_document
+  - name: dim_production_illustration
+  - name: dim_production_location
+  - name: dim_production_product
+  - name: dim_production_productcategory
+  - name: dim_production_productcosthistory
+  - name: dim_production_productdescription
+  - name: dim_production_productdocument
+  - name: dim_production_productinventory
+  - name: dim_production_productlistpricehistory
+  - name: dim_production_productmodel
+  - name: dim_production_productmodelillustration
+  - name: dim_production_productmodelproductdescriptionculture
+  - name: dim_production_productphoto
+  - name: dim_production_productproductphoto
+  - name: dim_production_productreview
+  - name: dim_production_productsubcategory
+  - name: dim_production_scrapreason
+  - name: dim_production_transactionhistory
+  - name: dim_production_transactionhistoryarchive
+  - name: dim_production_unitmeasure
+  - name: dim_production_workorder
+  - name: dim_production_workorderrouting
+  # purchasing
+  - name: dim_purchasing_productvendor
+  - name: dim_purchasing_purchaseorderdetail
+  - name: dim_purchasing_purchaseorderheader
+  - name: dim_purchasing_shipmethod
+  - name: dim_purchasing_vendor  
+  # sales
+  - name: dim_sales_countryregioncurrency
+  - name: dim_sales_creditcard
+  - name: dim_sales_currency
